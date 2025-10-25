@@ -1,3 +1,6 @@
 #EXTM3U
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=800000,BANDWIDTH=1000000,RESOLUTION=640x360,FRAME-RATE=59.940,CODECS="avc1.64001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://hostplayer.click/1119/tracks-v1a1/mono.m3u8?DVR&autoplay=true&token=155a84454ed15e2e46fbca012c1db36ce8cf701b-fda824bad927e09cfd5c61362237f807-1752670851-1752660051
+#EXTINF:-1 tvg-logo="http://localhost:8586/source/OneDrive/Glen%20Baumfield%20%7C%20OneDrive%20Personal%20%7C%20OneDrive/Kodi/IPTV/TV/Logos/Boxing.jpg" group-title="Boxing",Jo Parker Fight
+#EXTVLCOPT:http-origin=https://ppv.to/
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://gg.poocloud.in/daznboxing/tracks-v1a1/mono.ts.m3u8
