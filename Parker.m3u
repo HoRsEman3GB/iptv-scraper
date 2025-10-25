@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://localhost:8586/source/OneDrive/Glen%20Baumfield%20%7C%20OneDrive%20Personal%20%7C%20OneDrive/Kodi/IPTV/TV/Logos/Boxing.jpg" group-title="Boxing",Jo Parker Fight
+#EXTVLCOPT:http-origin=https://ppv.to/
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://gg.poocloud.in/daznboxing/tracks-v1a1/mono.ts.m3u8
